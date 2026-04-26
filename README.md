@@ -11,7 +11,7 @@
 <p>
   <strong>Programming Languages</strong><br/><br/>
   <a href="https://skills.syvixor.com">
-    <img src="https://skills.syvixor.com/api/icons?perline=15&i=cpp,python,lua,html,css3,javascript,typescript,php" />
+    <img src="https://skills.syvixor.com/api/icons?perline=15&i=cpp,python,lua,javascript,typescript,php" />
   </a>
 </p>
 
